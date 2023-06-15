@@ -4,7 +4,6 @@ import ec.edu.espe.arquitectura.examensebastianochoa.model.Usuario;
 import ec.edu.espe.arquitectura.examensebastianochoa.model.UsuarioPerfil;
 import ec.edu.espe.arquitectura.examensebastianochoa.service.UsuarioService;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Service;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
